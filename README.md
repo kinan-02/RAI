@@ -1,1 +1,1 @@
-# RAI
+# Responsible AI, Law, Ethics & Society
